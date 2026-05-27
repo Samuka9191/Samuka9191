@@ -1,8 +1,5 @@
 # Samuka9191
 
-![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)sahesa91@gmail.com
-
-
 </div>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/6411a21a-8677-40e9-b9e8-4994c7592538" alt="" />
