@@ -1,8 +1,5 @@
 # Samuka9191
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) 
-
-
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)sahesa91@gmail.com
 
 
