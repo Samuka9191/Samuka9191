@@ -11,7 +11,7 @@
 ✨ 𝑭𝒊𝒒𝒖𝒆 à 𝒗𝒐𝒏𝒕𝒂𝒅𝒆 𝒑𝒂𝒓𝒂 𝒆𝒙𝒑𝒍𝒐𝒓𝒂𝒓 𝒎𝒆𝒖𝒔 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔!
 
 
-<img width="1200" height="675" alt="5927911" src="https://github.com/user-attachments/assets/ed01534d-c68c-4411-b796-f432b42ef236" />
+<img width="950" height="675" alt="5927911" src="https://github.com/user-attachments/assets/ed01534d-c68c-4411-b796-f432b42ef236" />
 
 
 <picture>
